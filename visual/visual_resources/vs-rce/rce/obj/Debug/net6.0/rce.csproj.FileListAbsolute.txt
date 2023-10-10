@@ -1,0 +1,15 @@
+C:\Users\vagrant\source\repos\rce\rce\bin\Debug\net6.0\rce.exe
+C:\Users\vagrant\source\repos\rce\rce\bin\Debug\net6.0\rce.deps.json
+C:\Users\vagrant\source\repos\rce\rce\bin\Debug\net6.0\rce.runtimeconfig.json
+C:\Users\vagrant\source\repos\rce\rce\bin\Debug\net6.0\rce.dll
+C:\Users\vagrant\source\repos\rce\rce\bin\Debug\net6.0\rce.pdb
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.csproj.AssemblyReference.cache
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.AssemblyInfoInputs.cache
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.AssemblyInfo.cs
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.csproj.CoreCompileInputs.cache
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.dll
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\refint\rce.dll
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.pdb
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\rce.genruntimeconfig.cache
+C:\Users\vagrant\source\repos\rce\rce\obj\Debug\net6.0\ref\rce.dll
